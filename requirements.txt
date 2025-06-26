@@ -1,0 +1,16 @@
+torch
+transformers
+timm
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+spacy
+nltk
+rouge
+bert-score
+textstat
+tqdm
+Pillow
